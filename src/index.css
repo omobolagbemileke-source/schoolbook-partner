@@ -18,16 +18,16 @@ All colors MUST be HSL.
     --popover-foreground: 222 84% 5%;
 
     /* Right Ideas Publishers Brand Colors */
-    --primary: 24 100% 50%; /* Premium Orange #FF6600 */
+    --primary: 20 85% 45%; /* Professional Orange #D2691E */
     --primary-foreground: 0 0% 98%;
 
-    --secondary: 30 100% 96%;
-    --secondary-foreground: 24 100% 30%;
+    --secondary: 25 100% 96%;
+    --secondary-foreground: 20 85% 25%;
 
-    --muted: 30 20% 97%;
-    --muted-foreground: 30 10% 47%;
+    --muted: 25 15% 97%;
+    --muted-foreground: 25 8% 47%;
 
-    --accent: 24 100% 60%; /* Lighter Orange */
+    --accent: 20 75% 50%; /* Softer Orange Accent */
     --accent-foreground: 0 0% 98%;
 
     --destructive: 0 84% 60%;
@@ -38,16 +38,16 @@ All colors MUST be HSL.
     --ring: 225 83% 21%;
 
     /* Right Ideas Publishers Design Tokens */
-    --education-blue: 24 100% 50%;
-    --education-blue-light: 24 100% 60%;
-    --education-gold: 24 100% 50%;
-    --education-gold-light: 24 100% 60%;
-    --education-neutral: 30 15% 46%;
-    --education-bg: 30 20% 97%;
+    --education-blue: 20 85% 45%;
+    --education-blue-light: 20 75% 55%;
+    --education-gold: 20 85% 45%;
+    --education-gold-light: 20 75% 55%;
+    --education-neutral: 25 12% 46%;
+    --education-bg: 25 15% 97%;
 
     /* Gradients */
-    --gradient-hero: linear-gradient(135deg, hsl(var(--primary)), hsl(var(--accent)));
-    --gradient-card: linear-gradient(145deg, hsl(0 0% 100%), hsl(30 20% 98%));
+    --gradient-hero: linear-gradient(135deg, hsl(var(--primary)), hsl(20 75% 50%));
+    --gradient-card: linear-gradient(145deg, hsl(0 0% 100%), hsl(25 15% 98%));
     
     /* Shadows */
     --shadow-card: 0 4px 6px -1px hsl(var(--primary) / 0.1);
