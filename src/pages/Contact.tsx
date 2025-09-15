@@ -51,43 +51,43 @@ const Contact = () => {
     {
       icon: Phone,
       title: "Phone",
-      content: "+1 (555) 123-4567",
-      description: "Mon-Fri, 8AM-6PM EST"
+      content: "+2348132873677",
+      description: "Mon-Fri, 8AM-6PM WAT"
     },
     {
       icon: Mail,
       title: "Email",
-      content: "orders@edubooks.com",
+      content: "orders@rightideaspublishers.com",
       description: "24/7 response within 24 hours"
     },
     {
       icon: MapPin,
       title: "Address",
-      content: "123 Education Avenue",
-      description: "Learning City, LC 12345"
+      content: "Owode Eleeyo, Ede",
+      description: "Osun State, Nigeria"
     },
     {
       icon: Clock,
       title: "Business Hours",
       content: "Monday - Friday",
-      description: "8:00 AM - 6:00 PM EST"
+      description: "8:00 AM - 6:00 PM WAT"
     }
   ];
 
   const departments = [
     {
       title: "Sales & Orders",
-      email: "orders@edubooks.com",
+      email: "orders@rightideaspublishers.com",
       description: "Book orders, pricing, and bulk purchasing inquiries"
     },
     {
       title: "Customer Service",
-      email: "support@edubooks.com",
+      email: "support@rightideaspublishers.com",
       description: "General questions, order status, and account support"
     },
     {
       title: "Partnership Inquiries",
-      email: "partnerships@edubooks.com",
+      email: "partnerships@rightideaspublishers.com",
       description: "Distribution partnerships and collaboration opportunities"
     }
   ];
@@ -216,7 +216,7 @@ const Contact = () => {
                     </p>
                     <Button className="w-full" variant="outline">
                       <Phone className="h-4 w-4 mr-2" />
-                      Call +1 (555) 123-4567
+                      Call +2348132873677
                     </Button>
                   </CardContent>
                 </Card>

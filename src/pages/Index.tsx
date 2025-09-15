@@ -118,12 +118,12 @@ const Index = () => {
           <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
             <div className="grid gap-12 lg:grid-cols-2 items-center">
               <div>
-                <h2 className="text-4xl font-bold mb-6">About EduBooks Publishing</h2>
+                <h2 className="text-4xl font-bold mb-6">About Right Ideas Publishers</h2>
                 <p className="text-lg text-muted-foreground mb-6">
-                  For over 25 years, EduBooks Publishing has been the trusted partner 
+                  For over 25 years, Right Ideas Publishers has been the trusted partner 
                   for schools seeking high-quality educational materials. We combine 
-                  expert publishing capabilities with nationwide distribution to serve 
-                  educational institutions from coast to coast.
+                  expert publishing capabilities with distribution across Nigeria to serve 
+                  educational institutions throughout the country.
                 </p>
                 <div className="space-y-3">
                   <div className="flex items-center space-x-3">
@@ -132,7 +132,7 @@ const Index = () => {
                   </div>
                   <div className="flex items-center space-x-3">
                     <CheckCircle className="h-5 w-5 text-accent" />
-                    <span>Reliable nationwide distribution network</span>
+                    <span>Reliable distribution network across Nigeria</span>
                   </div>
                   <div className="flex items-center space-x-3">
                     <CheckCircle className="h-5 w-5 text-accent" />
@@ -195,7 +195,7 @@ const Index = () => {
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4">Distribution Partnerships</h2>
               <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-                Why schools nationwide choose EduBooks for their educational material needs
+                Why schools across Nigeria choose Right Ideas Publishers for their educational material needs
               </p>
             </div>
 
@@ -218,7 +218,7 @@ const Index = () => {
           <div className="mx-auto max-w-4xl px-4 text-center sm:px-6 lg:px-8">
             <h2 className="text-4xl font-bold mb-6">Ready to Partner With Us?</h2>
             <p className="text-xl opacity-90 mb-8 max-w-2xl mx-auto">
-              Join thousands of schools nationwide who trust EduBooks Publishing 
+              Join thousands of schools across Nigeria who trust Right Ideas Publishers 
               for their educational material needs. Get started today.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">

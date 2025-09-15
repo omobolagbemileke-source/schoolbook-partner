@@ -17,17 +17,17 @@ All colors MUST be HSL.
     --popover: 0 0% 100%;
     --popover-foreground: 222 84% 5%;
 
-    /* Educational Publishing Brand Colors */
-    --primary: 225 83% 21%; /* Deep Blue #1E3A8A */
+    /* Right Ideas Publishers Brand Colors */
+    --primary: 24 100% 50%; /* Premium Orange #FF6600 */
     --primary-foreground: 0 0% 98%;
 
-    --secondary: 210 40% 96%;
-    --secondary-foreground: 225 83% 21%;
+    --secondary: 30 100% 96%;
+    --secondary-foreground: 24 100% 30%;
 
-    --muted: 220 13% 97%;
-    --muted-foreground: 215 16% 47%;
+    --muted: 30 20% 97%;
+    --muted-foreground: 30 10% 47%;
 
-    --accent: 45 93% 47%; /* Orange/Gold #F59E0B */
+    --accent: 24 100% 60%; /* Lighter Orange */
     --accent-foreground: 0 0% 98%;
 
     --destructive: 0 84% 60%;
@@ -37,21 +37,21 @@ All colors MUST be HSL.
     --input: 220 13% 91%;
     --ring: 225 83% 21%;
 
-    /* Educational Design Tokens */
-    --education-blue: 225 83% 21%;
-    --education-blue-light: 225 83% 35%;
-    --education-gold: 45 93% 47%;
-    --education-gold-light: 45 93% 60%;
-    --education-neutral: 220 9% 46%;
-    --education-bg: 220 13% 97%;
+    /* Right Ideas Publishers Design Tokens */
+    --education-blue: 24 100% 50%;
+    --education-blue-light: 24 100% 60%;
+    --education-gold: 24 100% 50%;
+    --education-gold-light: 24 100% 60%;
+    --education-neutral: 30 15% 46%;
+    --education-bg: 30 20% 97%;
 
     /* Gradients */
-    --gradient-hero: linear-gradient(135deg, hsl(var(--education-blue)), hsl(var(--education-blue-light)));
-    --gradient-card: linear-gradient(145deg, hsl(0 0% 100%), hsl(220 13% 98%));
+    --gradient-hero: linear-gradient(135deg, hsl(var(--primary)), hsl(var(--accent)));
+    --gradient-card: linear-gradient(145deg, hsl(0 0% 100%), hsl(30 20% 98%));
     
     /* Shadows */
-    --shadow-card: 0 4px 6px -1px hsl(var(--education-blue) / 0.1);
-    --shadow-hover: 0 10px 25px -3px hsl(var(--education-blue) / 0.15);
+    --shadow-card: 0 4px 6px -1px hsl(var(--primary) / 0.1);
+    --shadow-hover: 0 10px 25px -3px hsl(var(--primary) / 0.15);
 
     --radius: 0.75rem;
 

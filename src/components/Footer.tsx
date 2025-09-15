@@ -10,11 +10,11 @@ const Footer = () => {
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
               <BookOpen className="h-8 w-8" />
-              <span className="text-xl font-bold">EduBooks Publishing</span>
+              <span className="text-xl font-bold">Right Ideas Publishers</span>
             </div>
             <p className="text-primary-foreground/80 mb-4 max-w-md">
               Your trusted partner in educational publishing and distribution. 
-              Serving schools nationwide with quality textbooks and storybooks 
+              Serving schools across Nigeria with quality textbooks and storybooks 
               from Kindergarten through High School.
             </p>
             <div className="flex space-x-4">
@@ -57,15 +57,15 @@ const Footer = () => {
             <div className="space-y-3 text-primary-foreground/80">
               <div className="flex items-center space-x-2">
                 <Phone className="h-4 w-4" />
-                <span>+1 (555) 123-4567</span>
+                <span>+2348132873677</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4" />
-                <span>orders@edubooks.com</span>
+                <span>orders@rightideaspublishers.com</span>
               </div>
               <div className="flex items-center space-x-2">
                 <MapPin className="h-4 w-4" />
-                <span>123 Education Ave, Learning City, LC 12345</span>
+                <span>Owode Eleeyo, Ede Osun State</span>
               </div>
             </div>
           </div>
@@ -74,7 +74,7 @@ const Footer = () => {
         <div className="mt-8 border-t border-primary-foreground/20 pt-8">
           <div className="flex flex-col items-center justify-between md:flex-row">
             <p className="text-primary-foreground/80 text-sm">
-              © 2024 EduBooks Publishing. All rights reserved.
+              © 2024 Right Ideas Publishers. All rights reserved.
             </p>
             <div className="mt-4 flex space-x-4 md:mt-0">
               <Link 
